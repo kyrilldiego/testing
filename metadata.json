@@ -1,0 +1,5 @@
+{
+  "name": "Game master",
+  "description": "A sleek, dark-mode friendly application to track board game sessions, scores, and player statistics.",
+  "requestFramePermissions": []
+}
